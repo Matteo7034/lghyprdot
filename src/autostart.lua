@@ -12,6 +12,7 @@
    hl.exec_cmd("kitty")
    hl.exec_cmd("nm-applet")
    hl.exec_cmd("/usr/libexec/xdg-desktop-portal-hyprland")
+   hl.exec_cmd("wlsunset")
    hl.exec_cmd("pipewire")
    hl.exec_cmd("pipewire-pulse")
    hl.exec_cmd("wireplumber")
